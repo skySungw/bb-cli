@@ -1,5 +1,8 @@
 {
   "version": "1.0.0",
+  "script": {
+    "dev": "node index.js"
+  },
   "dependencies": {
     "chalk": "^4.0.0",
     "commander": "^11.0.0",
