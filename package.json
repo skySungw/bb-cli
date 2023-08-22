@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "script": {
+  "scripts": {
     "dev": "node index.js"
   },
   "dependencies": {
